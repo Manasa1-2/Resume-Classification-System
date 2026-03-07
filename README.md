@@ -70,3 +70,23 @@ Confidence Score: 92%
 ## Installation
 
 Clone the repository:
+git clone https://github.com/Manasa1-2/Resume-Classification-System.git
+
+
+Install dependencies:
+pip install -r requirements.txt
+
+Run the Streamlit app:
+streamlit run app.py
+
+## Future Improvements
+
+• Add deep learning models  
+• Improve dataset size  
+• Deploy online (Streamlit Cloud / AWS)  
+• Resume skill extraction  
+
+
+## Author
+Manasa Parampogu  
+Data Science Enthusiast
